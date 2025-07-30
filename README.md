@@ -1,0 +1,1 @@
+After upgrading the game to version 1.55, playing ETS2 (Euro Truck Simulator 2) will be very laggy and unplayable, typically dropping to single-digit FPS. The solution is to open the settings within ETS2, uninstall the SDK (Development Tools), then reinstall it. After this, performance should return to normal.
